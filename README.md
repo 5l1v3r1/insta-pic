@@ -13,10 +13,10 @@
     python3 instapic.py
 
 ## Developer
-    Ben Furkan Kerem Özdemir.
-    Türkiye'de Bir Yazılım Geliştiricisi Ve Siber Güvenlik Uzmanıyım.
-    Python , Html , Css , JavaScript , Bash Dilleri Üzerinde Betikler Kodluyorum.
-    Sosyal Adreslerim Aşağıda Bulunmaktadır İletişim İçin Kullanabilirsiniz.
+        I'm Furkan Kerem Ozdemir.
+        I am a Software Developer and Cyber Security Specialist in Turkey.
+        I am coding scripts on Python, Html, Css, JavaScript, Bash languages.
+        My Social Addresses Are Below You Can Use For Communication.
     
    > [INSTAGRAM](https://Instagram.com/securist0x01/)
     
