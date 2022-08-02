@@ -18,12 +18,12 @@
     Python , Html , Css , JavaScript , Bash Dilleri Üzerinde Betikler Kodluyorum.
     Sosyal Adreslerim Aşağıda Bulunmaktadır İletişim İçin Kullanabilirsiniz.
     
-   > [INSTAGRAM](https://Instagram.com/securist0x01/)
+   > [INSTAGRAM](https://Instagram.com/securist0x01/)[]
     
-   > [TWITTER](https://twitter.com/securist0x01)
+   > [TWITTER](https://twitter.com/securist0x01)[]
     
-   > [MAILS : furkankerem@protonmail.com / securist0x01@gmail.com]
+   > [MAILS : furkankerem@protonmail.com / securist0x01@gmail.com][]
     
-   > [TELEGRAM](t.me/securist0x01)
+   > [TELEGRAM](t.me/securist0x01)[]
     
-   > [TELEGRAM BIO](https://t.me/securistbio)
+   > [TELEGRAM BIO](https://t.me/securistbio)[]
