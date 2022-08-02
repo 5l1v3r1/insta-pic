@@ -23,10 +23,10 @@ print(Fore.CYAN+ """
          o o
          CODED BY SECURIST0x01
 """)
-user = input(Fore.MAGENTA+"Kullanıcı Adı : ")
-passwd = input(Fore.MAGENTA+"Şifre : ",)
-resim = input(Fore.YELLOW+"Resim Yolu [Örn /root/aa.jpg] : ")
-aciklama = input(Fore.WHITE+"Açıklama : ")
+user = input(Fore.MAGENTA+"Username : ")
+passwd = input(Fore.MAGENTA+"Password : ",)
+img = input(Fore.YELLOW+"Image Path [Example /root/aa.jpg] : ")
+exp = input(Fore.WHITE+"Explanation : ")
 bot.login(username=user, password=passwd)
 
-bot.upload_photo(resim, caption=aciklama)
+bot.upload_photo(img, caption=exp)
